@@ -1,0 +1,57 @@
+body {
+    /* background: 
+    /* linear-gradient(90deg, blue, yellow); */
+    /* radial-gradient(blue, yellow) */
+
+    /* background: url("dora.png"); */
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#p1 {
+    /* rgb value */
+    /* color: rgb(234, 122, 16);
+    background-color: rgb(14, 13, 13); */
+    
+    /* hsl hue saturation lightness */
+    /* color: hsl(233, 92%, 49%) */
+
+    /* alpha transparency */
+    color: yellow;
+    background-color: hsla(233,92%,49%,0.1);
+}
+
+#p2 {
+    /* hexadecimal code */
+    color: #00FF00;
+    background-color: #FF0000;
+}
+
+h3 {
+    font-family: 'Gloria Hallelujah';
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    text-shadow: -4px 4px 4px red;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    text-align: center;
+}
+
+.area {
+    background-color: tomato;
+    color: white;
+    width: 50%;
+    /* height: 50px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 5px outset yellow;
+    border-radius: 10px;
+    box-shadow: -3px 3px 3px blue;
+    margin-top:25px;
+    margin-bottom:20px;
+    margin-left:10px;
+    margin-right:29px;
+}
