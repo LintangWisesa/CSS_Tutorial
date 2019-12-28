@@ -1,0 +1,57 @@
+/* tag selector */
+p {
+    color: white;
+    background-color: red;
+}
+
+/* class selector */
+.student {
+    color: black;
+    background-color: yellow;
+}
+
+/* id selector */
+#caca {
+    color: white;
+    background-color: green;
+}
+
+/* attribute selector */
+a[href="abc.com"] {
+    color: blue;
+    background-color: yellow;
+}
+
+a[href="xyz.id"] {
+    color: green;
+    background-color:gray;
+}
+
+/* grouping */
+b, i, ins {
+    color: lightpink;
+    background-color: magenta;
+}
+
+/* descendant selector */
+header h3, header p {
+    color: maroon;
+    background-color: yellowgreen;
+}
+
+/* child selector */
+article > p {
+    color: red;
+    background-color: lightskyblue;
+}
+
+article > main > p {
+    color: yellow;
+    background-color: brown;
+}
+
+/* adjacent selector */
+h6 + small + small {
+    color: gold;
+    background-color: indigo;
+}
