@@ -19,6 +19,23 @@ __CSS__ (_Cascading Style Sheets_) merupakan aturan untuk mengatur style & layou
 [#7 Grid](https://youtu.be/Z9u5Z3unNSM?t=7522) | <ul><li>Display Grid</li><li>Grid Column, Row, Gap & Lines</li><li>Nested Grid</li></ul>
 [#8 Summary](https://youtu.be/Z9u5Z3unNSM?t=8714) | <ul><li>Summary</li><li>References</li></ul>
 
+<hr>
+
+# __Responsive Web Design__
+
+[![Video](https://img.youtube.com/vi/8doKuzJAcqw/0.jpg)](https://www.youtube.com/watch?v=8doKuzJAcqw)
+
+_**Responsive Web Design**_ merupakan teknik penggunaan HTML, CSS & teknologi pendukung web development lainnya, untuk membuat tampilan website yang responsif terhadap ukuran layar device user. Website yang responsif akan memiliki user interface yang efektif & user experience yang baik di beragam device user. Tutorial kali ini membahas _step-by-step_ bagaimana menggunakan HTML & CSS untuk membuat tampilan website yang responsif.
+
+#
+
+⏰ Timestamp links
+- [#1 Intro](https://youtu.be/8doKuzJAcqw?t=19)
+- [#2 Responsive Size](https://youtu.be/8doKuzJAcqw?t=221)
+- [#3 Responsive Content](https://youtu.be/8doKuzJAcqw?t=583)
+- [#4 Responsive Layout](https://youtu.be/8doKuzJAcqw?t=914)
+- [#5 Summary](https://youtu.be/8doKuzJAcqw?t=1488)
+
 #
 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_

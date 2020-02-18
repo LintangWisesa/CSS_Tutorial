@@ -1,0 +1,20 @@
+.a{background-color: lightcoral; float: left; width: 20%;}
+.b{background-color: lightsalmon; float: left; width: 20%;}
+.c{background-color: yellow; float: left; width: 20%;}
+.d{background-color: lightgreen; float: left; width: 20%;}
+.e{background-color: lightskyblue; float: left; width: 20%;}
+        
+@media screen and (max-width: 1200px){
+    .a,.b,.c{
+        width: 33.33%;
+    }   
+    .d,.e{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .a,.b,.c,.d,.e{
+        width: 100%;
+    }   
+}
